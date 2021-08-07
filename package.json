@@ -1,0 +1,19 @@
+{
+  "name": "week-5-workshop-test-nilgun-canbaz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage":"jest --coverage",
+    "test:watch":"jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
